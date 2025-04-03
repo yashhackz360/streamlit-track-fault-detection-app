@@ -97,4 +97,7 @@ Special thanks to:
 ---
 
 Feel free to reach out with questions, suggestions, or feedback!
+🤝 Connect with Me
+📌 LinkedIn: Yashwanth Sai Kasarabada
+📌 GitHub: yashhackz360
 
