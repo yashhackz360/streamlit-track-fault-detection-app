@@ -1,0 +1,11 @@
+Dataset Link:
+
+https://www.kaggle.com/salmaneunus/railway-track-fault-detection
+
+'Train' images would be available which is used to train our model.
+
+'Test' images would be available to test our model.
+
+'Validation' file is for checking purpose.
+
+Each folder has 10 - 31 files or images
