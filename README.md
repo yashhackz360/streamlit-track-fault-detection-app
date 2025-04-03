@@ -95,9 +95,5 @@ Special thanks to:
 - Streamlit team for enabling rapid development of interactive applications.
 
 ---
-
-Feel free to reach out with questions, suggestions, or feedback!
-🤝 Connect with Me
-📌 LinkedIn: Yashwanth Sai Kasarabada
-📌 GitHub: yashhackz360
+📩 **Have queries? Let's connect:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yashwanth-sai-kasarabada-ba4265258/)  
 
