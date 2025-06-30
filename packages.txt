@@ -1,0 +1,14 @@
+# System packages required for common Python data science libraries
+build-essential
+python3-dev
+python3-pip
+libatlas-base-dev
+libjpeg-dev
+libpng-dev
+libfreetype6-dev
+libxft-dev
+libxml2-dev
+libxslt1-dev
+zlib1g-dev
+libffi-dev
+libssl-dev
